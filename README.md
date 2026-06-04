@@ -52,7 +52,6 @@ The core logic relies on an object-oriented approach utilizing distinct structur
 ---
 
 ## 📸 Application Preview
-*(Tip: Take screenshots of your running Swing application windows and drop them here)*
 
 | Login Window | Inventory Dashboard |
 |---|---|
@@ -60,10 +59,5 @@ The core logic relies on an object-oriented approach utilizing distinct structur
 
 ---
 
-## ⚙️ How To Run Locally
-
-1. **Clone the repository:**
-```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git) ```
 
 
