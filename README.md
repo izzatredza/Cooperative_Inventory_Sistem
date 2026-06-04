@@ -55,7 +55,7 @@ The core logic relies on an object-oriented approach utilizing distinct structur
 
 | Login Window | Inventory Dashboard |
 |---|---|
-| ![Login UI](path/to/login_screenshot.png) | ![Main UI](path/to/main_screenshot.png) |
+| ![Login UI](images/login_coop.png) | ![Main UI](images/Main_coop.png) |
 
 ---
 
